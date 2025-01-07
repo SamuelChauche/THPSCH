@@ -1,3 +1,3 @@
 # THPSCH
 THP FOLDER
-Repertoire Samuel Chauche
+Repertoire de Samuel Chauche
