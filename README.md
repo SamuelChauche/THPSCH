@@ -1,3 +1,4 @@
 # THPSCH
 THP FOLDER
-Repertoire Samuel Chauche
+Web google page recreated by Samuel Chauche for THP school during the fullstack developper training of january 2025
+
